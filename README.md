@@ -3,7 +3,7 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 22.04 LTS
 
 #### Refer this for default python 3.11 setup
 
-- [D-codeE Video Tutorial](https://youtu.be/TReR0I0O1Xo)
+
 
 ### Pre-requisites 
 
